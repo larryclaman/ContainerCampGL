@@ -48,7 +48,11 @@ To test, from your browser navigate to the url of your machine (this is the same
 
 > http://[ip address of your jumpbox]
 
-You should see the "Welcome to NGINX" default page. Well that's it for this lab... Time to clean up.
+You should see the "Welcome to NGINX" default page. Well that's it for this lab.
+
+## Next step:  Build your own image
+Now on to the second part:  [Build your own image](buildimage.md)
+
 
 ## Optional, but interesting: Create your own Docker Image ##
 Use the Docker Docs and create your own image... A good place to start is:
